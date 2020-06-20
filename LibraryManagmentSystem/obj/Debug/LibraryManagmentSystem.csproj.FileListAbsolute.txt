@@ -1,0 +1,17 @@
+C:\Users\mithu\Documents\Visual Studio 2012\Projects\LibraryManagmentSystem\LibraryManagmentSystem\bin\Debug\LibraryManagmentSystem.exe.config
+C:\Users\mithu\Documents\Visual Studio 2012\Projects\LibraryManagmentSystem\LibraryManagmentSystem\bin\Debug\LibraryManagmentSystem.exe
+C:\Users\mithu\Documents\Visual Studio 2012\Projects\LibraryManagmentSystem\LibraryManagmentSystem\bin\Debug\LibraryManagmentSystem.pdb
+C:\Users\mithu\Documents\Visual Studio 2012\Projects\LibraryManagmentSystem\LibraryManagmentSystem\obj\Debug\LibraryManagmentSystem.add_books.resources
+C:\Users\mithu\Documents\Visual Studio 2012\Projects\LibraryManagmentSystem\LibraryManagmentSystem\obj\Debug\LibraryManagmentSystem.LoginForm.resources
+C:\Users\mithu\Documents\Visual Studio 2012\Projects\LibraryManagmentSystem\LibraryManagmentSystem\obj\Debug\LibraryManagmentSystem.issue_books.resources
+C:\Users\mithu\Documents\Visual Studio 2012\Projects\LibraryManagmentSystem\LibraryManagmentSystem\obj\Debug\LibraryManagmentSystem.Mdi_user.resources
+C:\Users\mithu\Documents\Visual Studio 2012\Projects\LibraryManagmentSystem\LibraryManagmentSystem\obj\Debug\LibraryManagmentSystem.Properties.Resources.resources
+C:\Users\mithu\Documents\Visual Studio 2012\Projects\LibraryManagmentSystem\LibraryManagmentSystem\obj\Debug\LibraryManagmentSystem.student_info.resources
+C:\Users\mithu\Documents\Visual Studio 2012\Projects\LibraryManagmentSystem\LibraryManagmentSystem\obj\Debug\LibraryManagmentSystem.viewbooks.resources
+C:\Users\mithu\Documents\Visual Studio 2012\Projects\LibraryManagmentSystem\LibraryManagmentSystem\obj\Debug\LibraryManagmentSystem.view_student_info.resources
+C:\Users\mithu\Documents\Visual Studio 2012\Projects\LibraryManagmentSystem\LibraryManagmentSystem\obj\Debug\LibraryManagmentSystem.csproj.GenerateResource.Cache
+C:\Users\mithu\Documents\Visual Studio 2012\Projects\LibraryManagmentSystem\LibraryManagmentSystem\obj\Debug\LibraryManagmentSystem.exe
+C:\Users\mithu\Documents\Visual Studio 2012\Projects\LibraryManagmentSystem\LibraryManagmentSystem\obj\Debug\LibraryManagmentSystem.pdb
+C:\Users\mithu\Documents\Visual Studio 2012\Projects\LibraryManagmentSystem\LibraryManagmentSystem\obj\Debug\LibraryManagmentSystem.csprojResolveAssemblyReference.cache
+C:\Users\mithu\Documents\Visual Studio 2012\Projects\LibraryManagmentSystem\LibraryManagmentSystem\obj\Debug\LibraryManagmentSystem.student_return_books.resources
+C:\Users\mithu\Documents\Visual Studio 2012\Projects\LibraryManagmentSystem\LibraryManagmentSystem\obj\Debug\LibraryManagmentSystem.books_stock.resources
